@@ -15,7 +15,7 @@ export default class Square extends React.Component {
     }
 
     handleClick(e) {
-        this.saySomething("Hello world");
+        this.saySomething("Hello world1");
         
     }
 
